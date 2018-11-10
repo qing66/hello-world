@@ -1,2 +1,3 @@
 # hello-world
 learning GitHub
+This is qing's first github project and first time editing file...
